@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RAVESLI", "RAVESLI\RAVESLI.vcxproj", "{0B5991AA-86B3-4738-87B8-8E523D4B471C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A475CD6E-B1EE-46A5-AC7B-82B47DAAEA9E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Рабочий стол\C++\C++Concepts.txt = ..\..\..\OneDrive\Рабочий стол\C++\C++Concepts.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
