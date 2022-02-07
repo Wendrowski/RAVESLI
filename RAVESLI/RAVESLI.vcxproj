@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exercise1.cpp" />
+    <ClCompile Include="Exercise2.cpp" />
     <ClCompile Include="Lesson60_typedef_typealias.cpp" />
     <ClCompile Include="Lesson61_struct.cpp" />
     <ClCompile Include="Lesson62_Types_Input_KeyWord_Auto.cpp" />
