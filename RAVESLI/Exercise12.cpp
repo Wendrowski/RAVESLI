@@ -38,7 +38,7 @@ long long int  getNumber() {
 	return x;
 }
 
-//определение значения разряда вторым способом
+
 long long int printBit(long long int x, long long int pow) {
 
 	if (x >= pow)
