@@ -52,7 +52,7 @@ long long int printBit(long long int x, long long int pow) {
 	}
 }
 
-//определение какое максимальное число степени двойки входит в введенное число 
+
 long long int powNumber(long long int x) {
 
 	long long int n{ 0 };
