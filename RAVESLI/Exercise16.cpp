@@ -16,7 +16,7 @@ int main() {
 	cout << "¬ведите целое число Y которое больше X: ";
 	cin >> y;
 	if (y > x)
-		cout << "¬аш Y: " << y << " More than X: " << x << endl;
+		cout << "Your Y: " << y << " More than X: " << x << endl;
 	else
 	{
 		cout << "Changing values vice versa" << endl;
