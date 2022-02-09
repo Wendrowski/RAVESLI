@@ -19,7 +19,7 @@ int main() {
 		cout << "Ваш Y: " << y << " Больше чем X: " << x << endl;
 	else
 	{
-		cout << "Меняем значения местами" << endl;
+		cout << "Changing values vice versa" << endl;
 
 		int a(y);
 		cout << "X = " << a << endl;
