@@ -14,7 +14,7 @@ int main()
 	long long int n = powNumber(x);
 
 
-	// увеличение степени, до степени кратной 4
+
 	while ((n + 1) % 4 != 0) {
 		n++;
 	}
