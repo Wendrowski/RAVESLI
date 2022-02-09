@@ -30,7 +30,7 @@ int main()
 	return 0;
 }
 
-
+// entering a number
 long long int  getNumber() {
 	cout << "Enter a number : ";
 	long long int x;
