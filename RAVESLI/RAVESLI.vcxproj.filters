@@ -117,7 +117,10 @@
     <ClCompile Include="Exercise29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exersice30.cpp">
+    <ClCompile Include="Exercise31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise30.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
