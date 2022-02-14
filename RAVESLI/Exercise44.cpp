@@ -4,17 +4,17 @@ int main()
 {
     enum Fruits
     {
-        LEMON, // LEMON находится внутри той же области видимости, что и Fruits
+        LEMON,
         KIWI
     };
 
     enum Colors
     {
-        PINK, // PINK находится внутри той же области видимости, что и Colors
+        PINK, 
         GRAY
     };
 
-    Fruits fruit = LEMON; // Fruits и LEMON доступны в одной области видимости (добавлять префикс не нужно)
+    Fruits fruit = LEMON; 
     Colors color = PINK; 
 
     if (fruit == color) 
