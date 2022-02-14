@@ -18,7 +18,7 @@ int main()
     Colors color = PINK; // Colors и PINK доступны в одной области видимости (добавлять префикс не нужно)
 
     if (fruit == color) // компилятор будет сравнивать эти переменные как целые числа
-        std::cout << "fruit and color are equal\n"; // и обнаружит, что они равны!
+        std::cout << "fruit and color are equal\n"; 
     else
         std::cout << "fruit and color are not equal\n";
 
