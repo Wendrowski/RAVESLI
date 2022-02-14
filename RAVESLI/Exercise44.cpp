@@ -15,7 +15,7 @@ int main()
     };
 
     Fruits fruit = LEMON; // Fruits и LEMON доступны в одной области видимости (добавлять префикс не нужно)
-    Colors color = PINK; // Colors и PINK доступны в одной области видимости (добавлять префикс не нужно)
+    Colors color = PINK; 
 
     if (fruit == color) 
         std::cout << "fruit and color are equal\n"; 
