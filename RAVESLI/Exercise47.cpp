@@ -30,7 +30,7 @@ short int number()
 
 void printBit(short int num, short int pow, short int net)
 {
-    if (net == 4) // ¬ставл€ем разделитель между числами
+    if (net == 4) 
         cout << " ";
     if (num >= pow && num > 0 && net > 0)
     {
