@@ -21,7 +21,7 @@ short int number()
         {
             cin.ignore(32767, '\n');
             if (x < 0 || x > 255)
-                cout << "Значение за пределами. Осталось попыток: " << --y << "\n";
+                cout << "The value besides the boundaries of tries " << --y << "\n";
             else return x;
         }
     }
