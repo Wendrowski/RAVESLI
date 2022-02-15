@@ -5,7 +5,7 @@ using namespace std;
 
 short int number()
 {
-    short int y = 3; // Количество попыток пользователя, по истечению которых функция возвращает 0
+    short int y = 3; // The quantity of user's attemps after those the zero is returned
     while (y > 0)
     {
         cout << "Введите число от 0 до 255: ";
