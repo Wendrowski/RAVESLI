@@ -54,6 +54,6 @@ int main()
     setlocale(LC_ALL, "Russian");
     short int numb = number();
     cout << numb << " в двоичной системе ";
-    printBit(numb, 128, 8); // 3 значения - от пользователя, множитель и значение количества выводимых знаков
+    printBit(numb, 128, 8);
     return 0;
 }
