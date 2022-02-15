@@ -15,7 +15,7 @@ short int number()
         {
             cin.clear();
             cin.ignore(32767, '\n');
-            cout << "Данные некорректны. Осталось попыток: " << --y << "\n";
+            cout << "The data is incorrect! Tries left: " << --y << "\n";
         }
         else
         {
