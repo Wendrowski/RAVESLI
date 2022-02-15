@@ -53,7 +53,7 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     short int numb = number();
-    cout << numb << " в двоичной системе ";
+    cout << numb << " in binary system ";
     printBit(numb, 128, 8);
     return 0;
 }
