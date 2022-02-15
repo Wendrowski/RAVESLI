@@ -178,6 +178,7 @@
     <ClCompile Include="Exercise44.cpp" />
     <ClCompile Include="Exercise45.cpp" />
     <ClCompile Include="Exercise46.cpp" />
+    <ClCompile Include="Exercise47.cpp" />
     <ClCompile Include="Exercise5.cpp" />
     <ClCompile Include="Exercise6.cpp" />
     <ClCompile Include="Exercise7.cpp" />
