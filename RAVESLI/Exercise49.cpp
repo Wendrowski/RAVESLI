@@ -2,7 +2,7 @@
 
 void decimicalIntoBinary(short int num, short int pow2)
 {
-	// проверяет нужно ли делать отступ 
+	
 	if (pow2 == 8)
 		std::cout << ' ';
 
