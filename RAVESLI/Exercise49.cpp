@@ -6,7 +6,7 @@ void decimicalIntoBinary(short int num, short int pow2)
 	if (pow2 == 8)
 		std::cout << ' ';
 
-	// основное ветвление по способу №2
+	
 	if (pow2 <= num && num > 0)
 	{
 		std::cout << '1';
